@@ -1,0 +1,27 @@
+{
+    "Testimonios": [
+      {
+        "id": 1,
+        "nombre": "Lucía Fernández",
+        "ciudad": "San Miguel",
+        "comentario": "Las instalaciones son impecables y el personal siempre está dispuesto a ayudar. ¡Un lugar ideal para entrenar!",
+        "fecha": "2024-11-01"
+      },
+      {
+        "id": 2,
+        "nombre": "Carlos López",
+        "ciudad": "Tafí Viejo",
+        "comentario": "Lo que más me gusta son las máquinas modernas y el horario flexible. Siempre puedo adaptar mis entrenamientos.",
+        "fecha": "2024-10-15"
+      },
+      {
+        "id": 3,
+        "nombre": "Sofía Ramírez",
+        "ciudad": "Yerba Buena",
+        "comentario": "Los entrenadores son muy profesionales y te ayudan a lograr tus objetivos. Además, el ambiente es súper motivador.",
+        "fecha": "2024-09-20"
+      }
+      
+    ]
+  }
+  
